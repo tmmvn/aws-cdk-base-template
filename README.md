@@ -1,3 +1,6 @@
+# Archived
+Due to AWS deprecating new CodeCommit repositories, this CDK template is less useful as a starting point. As a result, I have converted the repository to a public archive.
+
 # AWS CDK Template
 An AWS CDK template that can be used to deploy with CloudFormation/CDK to AWS,
 creating a repo of itself ready for future development. This should be a
